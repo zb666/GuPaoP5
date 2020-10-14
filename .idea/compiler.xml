@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Day11-SpringCloud" />
+        <module name="Day5-Regex" />
+        <module name="Day18-UMl" />
+        <module name="Day15-Redis" />
+        <module name="Day14-Nginx" />
+        <module name="Day12-Tomcat" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
