@@ -15,6 +15,7 @@
         <module>Day14-Nginx</module>
         <module>Day15-Redis</module>
         <module>Day18-UMl</module>
+        <module>Day3-NetIO</module>
     </modules>
 
 </project>

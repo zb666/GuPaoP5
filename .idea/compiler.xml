@@ -12,6 +12,7 @@
         <module name="Day15-Redis" />
         <module name="Day14-Nginx" />
         <module name="Day12-Tomcat" />
+        <module name="Day3-NetIO" />
       </profile>
     </annotationProcessing>
   </component>
